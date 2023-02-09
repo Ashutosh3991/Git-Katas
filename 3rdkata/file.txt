@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-hello
-<<<<<<< 
-=======
->>>>>>> 25dcaac ( h)
-=======
-12
->>>>>>> 3024c79 (3rd kata made some chages)
