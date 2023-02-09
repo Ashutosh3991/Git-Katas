@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+=======
+hello
+<<<<<<< 
+=======
+>>>>>>> 25dcaac ( h)
+>>>>>>> parent of c25e582 (3rd kata made some chages)
