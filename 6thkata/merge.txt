@@ -1,1 +1,2 @@
-Merge confilct example
+hello this is a file for merge conflict
+Merge conflict // made changes to create a merge conflict
